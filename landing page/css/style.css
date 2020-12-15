@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+  text-align: center;
+  
+  font-family: 'Nerko One', cursive;
+}
+h1 {
+  color: #ff4646;
+  background-color: #fff5c0;
+  box-shadow: 0px 10px 30px;
+    font-size: 90px;
+    font-weight: 40;
+    font-family: swap;
+
+}
+
+h2 {
+  background-color: #ff8585;
+  color: orange;
+}
+
+h3{
+  font-size: 40px;
+    font-weight: 40;
+    font-family: swap;
+
+}
+
+a{
+	color:#ff4646;
+	text-decoration: #ff4646;
+	font-weight: bold;
+
+}
+a:hover {
+	color: #ff8585;
+}
+
+.img {
+	border-radius: 10%;
+}
+
+
+
+	
